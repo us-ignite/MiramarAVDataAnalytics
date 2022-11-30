@@ -20,7 +20,10 @@ cd MiramarAVDataAnalytics/
 catkin_make
 source devel/setup.bash
 ```
-
+## List of available Analysis
+##### A. Generate 3D Point Cloud Map using Lidar Data
+##### B. Generating map using GPS Data with key Operational Analytics parameters visualization
+##### C. Performing Operational Analytics on Rosbag data for a partiular trip
 ## A. Steps to Generate a 3D Point Cloud Map from Lidar Data
 ##### Install the `ros_numpy` package if not already installed by typing the following command - 
 ```
