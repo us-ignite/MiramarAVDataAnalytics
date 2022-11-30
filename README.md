@@ -119,4 +119,4 @@ rosrun reg operational_analytics.py _name:='<rosbag-name>.bag' _start:=<start-ti
 
 **Ex:**
 
-`rosrun reg operational_analytics.py _name:='sample.bag' _start:=0 _interval:=50 _create:='T' _vel_info:='T' _mode_info:='T' _trans_info:='T' _topics:="['/actuation','/gps','/imu','/tf','/transmission','/vehiclemode','/velocity']"`
+`rosrun operational_analytics operational_analytics.py _name:='20210323_154348_olli-17_split_10.bag' _start:=0 _interval:=50 _create:='T' _vel_info:='T' _mode_info:='T' _trans_info:='T' _topics:="['/actuation','/gps','/imu','/tf','/transmission','/vehiclemode','/velocity']"`
