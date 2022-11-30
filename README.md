@@ -3,7 +3,18 @@
 
 ## Prerequisites
 
-##### Assumes that ROS Noetic is already installed on the system. For installation refer to - [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
+##### 1. Assumes that ROS Noetic is already installed on the system. For installation refer to - [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
+##### 2. Install Rosboard package for visualizing sensors data using the following commands - 
+```
+cd catkin_ws/src
+git clone https://github.com/dheera/rosboard.git
+catkin_make
+```
+##### To run rosboard for visualizing the sensors data, type the following command - 
+```
+rosrun rosboard rosboard_node
+```
+Then the data can be viewed in the browser - [http://localhost:8888/](http://localhost:8888/)
 
 ## Steps to Setup -
 
