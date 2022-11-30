@@ -122,7 +122,7 @@ rosrun reg operational_analytics.py _name:='<rosbag-name>.bag' _start:=<start-ti
 `rosrun operational_analytics operational_analytics.py _name:='20210323_154348_olli-17_split_10.bag' _start:=0 _interval:=50 _create:='T' _vel_info:='T' _mode_info:='T' _trans_info:='T' _topics:="['/actuation','/gps','/imu','/tf','/transmission','/vehiclemode','/velocity']"`
 
 ## Google Drive Link for all the Reports, documents & demo video - 
-[Google Drive Link - Reports & Documents](https://drive.google.com/drive/folders/1HlOZUpZNbzJrjrVrM7E8C9b3JlK4ZTN2?usp=share_link)
+[Google Drive Link - Reports & Documents](https://drive.google.com/drive/folders/1NNx_ocGabZHZ75lZN2lRI8dgiJHoKEI0?usp=sharing)
 
 ## Video link to the Summary of all the Work done on Miramar Data Analytics
-[Miramar AV Data Analytics Summary Video](https://drive.google.com/file/d/11CV0w2ZhEm86sNCOq68shFYILKu3AwSQ/view?usp=sharing)
+[Miramar AV Data Analytics Summary Video](https://drive.google.com/file/d/1SqOInsR7vvMOR-KSXkQb_qRV7yJ4aaHn/view?usp=sharing)
